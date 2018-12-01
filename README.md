@@ -1,4 +1,6 @@
-# GitHunt React
+# [DEPRECATED] GitHunt React
+
+> **Please note:** This project is no longer maintained. For an up to date example of modern day Apollo usage, please refer to the [Apollo fullstack tutorial](https://github.com/apollographql/fullstack-tutorial).
 
 An example of a client-side app built with React 16 and Apollo Client 2.0.
 
